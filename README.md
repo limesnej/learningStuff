@@ -1,3 +1,5 @@
 # learningStuff
 
-<h1>Doing different takss to improve my Python knowledge </h1>
+<h1>Learningstuff</h1>
+
+I'm doing different tasks to improve my Python knowledge.
