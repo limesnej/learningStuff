@@ -1,4 +1,3 @@
-# learningStuff
 
 <h1>Learningstuff</h1>
 
